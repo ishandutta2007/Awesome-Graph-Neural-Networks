@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&logo=github&color=blue" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&logo=github&color=orange" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&color=green" alt="License"/></a>
