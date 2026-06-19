@@ -63,3 +63,16 @@ These specialized architectures solve specific deep learning limitations like ov
 | **[Heterogeneous Graph Neural Networks (HGNN)](./details/heterogeneous_gnn.md)** | • Designed for graphs containing multiple distinct types of nodes and edges (e.g., User, Product, Brand).<br>• *Mechanism:* Uses meta-paths to aggregate distinct relational semantics separately. | 2019 | [Wang et al. (2019)](https://arxiv.org/abs/1903.07293) |
 | **[Cluster-GCN / NodeMinibatch](./details/cluster_gcn.md)** | • Partitions the graph into tightly clustered subgraphs using clustering algorithms before applying convolutions.<br>• *Pros:* Eliminates the "neighborhood explosion" problem, allowing deep training on giant commercial graphs. | 2019 | [Chiang et al. (2019)](https://arxiv.org/abs/1905.07953) |
 | **[Hypergraph Neural Networks (HGNN)](./details/hypergraph_gnn.md)** | • Generalizes standard edges to hyperedges that can connect more than two nodes simultaneously.<br>• *Use Case:* Modeling complex, multi-entity group interactions or complex biochemical pathways. | 2019 | [Feng et al. (2019)](https://arxiv.org/abs/1809.09401) |
+
+---
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Graph-Neural-Networks&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Graph-Neural-Networks&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Graph-Neural-Networks&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Graph-Neural-Networks&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
