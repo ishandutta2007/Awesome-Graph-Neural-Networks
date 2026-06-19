@@ -1,11 +1,25 @@
-# Awesome-Graph-Neural-Networks
-## Graph Neural Network (GNN) Variants in Artificial Intelligence
+# 🚀 Awesome Graph Neural Networks
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Graph Neural Networks Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&logo=github&color=blue" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&logo=github&color=orange" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Graph-Neural-Networks/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Graph-Neural-Networks?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 📖 Introduction to Graph Neural Network (GNN) Variants in AI
 
 Graph Neural Networks (GNNs) are specialized deep learning architectures designed to process data structured as graphs (nodes, edges, and topologies). Depending on how information is aggregated across neighborhoods, structured sequentially, or scaled, several distinct variants exist.
 
 ---
 
-## 1. Spatial/Message-Passing Variants
+## 🗺️ 1. Spatial/Message-Passing Variants
 
 These foundational variants operate directly on the graph's spatial structure by aggregating localized neighborhood information.
 
@@ -18,7 +32,7 @@ These foundational variants operate directly on the graph's spatial structure by
 
 ---
 
-## 2. Spectral-Domain Variants
+## 🎚️ 2. Spectral-Domain Variants
 
 These variants approach graph convolutions through the lens of graph signal processing, utilizing the Laplacian matrix.
 
@@ -29,7 +43,7 @@ These variants approach graph convolutions through the lens of graph signal proc
 
 ---
 
-## 3. Temporal & Sequential Variants
+## ⏳ 3. Temporal & Sequential Variants
 
 These architectures are designed for dynamic graphs where the topology, node features, or edge properties change over time.
 
@@ -40,7 +54,7 @@ These architectures are designed for dynamic graphs where the topology, node fea
 
 ---
 
-## 4. Advanced Geometric & Scale-Invariant Variants
+## 🔬 4. Advanced Geometric & Scale-Invariant Variants
 
 These specialized architectures solve specific deep learning limitations like over-smoothing, scalability, or complex spatial geometries.
 
